@@ -1,3 +1,5 @@
 /.env
 /result.json
-/.idea/
+.idea/
+__pycache__/
+venv/
